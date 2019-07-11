@@ -30,6 +30,8 @@ public class RoughWork {
 			System.out.print(a + " occured-");
 			System.out.println(map.get(a));
 		}
+		
+		System.out.println("This program is done");
 
 	}
 
