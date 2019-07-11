@@ -31,13 +31,6 @@ public class RoughWork {
 			System.out.println(map.get(a));
 		}
 		
-		System.out.println("This program is done");
-		
-		System.out.println("This program is done again");
-		
-		System.out.println("This program is done again third times");
-		
-		System.out.println("This program is done again 4 times");
 
 	}
 
