@@ -3,6 +3,13 @@
   <groupId>Automation</groupId>
   <artifactId>Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
   
+  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.0.0-alpha-2</version>
+</dependency>
+  </dependencies>
 
 </project>
